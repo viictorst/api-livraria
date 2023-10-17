@@ -32,4 +32,4 @@ Este é um porjeto elaborado pelo professor [Cristiano Correa](https://github.co
 
 ##
 > [!IMPORTANT]
->Neste Projeto irei ter um aprendizado na area Back-end utilizando a linguagem JavaScript. </br> (Projeto em andamento...)
+>Neste Projeto irei ter um aprendizado na area Back-end utilizando a linguagem JavaScript. </br> Última atualização feita no dia 17/10/23 (Projeto em andamento...)
